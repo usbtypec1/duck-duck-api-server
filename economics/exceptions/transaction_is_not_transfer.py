@@ -1,0 +1,2 @@
+class TransactionIsNotTransferError(Exception):
+    pass
