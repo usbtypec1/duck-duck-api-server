@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "duck_duck/wsgi.py"
+      "dest": "api/wsgi.py"
     }
   ]
 }
